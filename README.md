@@ -1,7 +1,7 @@
 # MovieLand Explorer
 MovieLand Explorer is a react app that takes movies data from omdb API and renders it on screen. 
 
-It is a practice project made while following a tutorial from [Javascript mastery] (https://www.youtube.com/watch?v=b9eMGE7QtTk)
+It is a practice project made while following a tutorial from [Javascript mastery](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
 
 ## Running this React App on your machine (Step-by-step)
